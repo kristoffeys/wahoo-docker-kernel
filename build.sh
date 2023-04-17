@@ -57,7 +57,7 @@ mkdir -p out
 echo
 echo "Set DEFCONFIG"
 echo 
-make CC=clang O=out wahoo-docker_defconfig
+make ARCH=arm64 SUBARCH=arm CC=clang O=out wahoo-docker_defconfig
 
 echo
 echo "Build The Good Stuff"
