@@ -7,7 +7,7 @@ index 7906b22..744e051 100755
  # begin properties
  properties() { '
 -kernel.string=ExampleKernel by osm0sis @ xda-developers
-+kernel.string=daoudeddy @ Github
++kernel.string=kristoffeys @ Github
  do.devicecheck=1
  do.modules=0
  do.systemless=1
